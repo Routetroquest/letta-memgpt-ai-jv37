@@ -1,4 +1,4 @@
-# 
+# Inteligente Letta (MemGPT) plugins. Con razonamiento automatizado y integración de API — optimizado para el máximo rendimiento y eficiencia.
 
 
 
